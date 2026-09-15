@@ -1,4 +1,4 @@
-# Mawthooq — Offline-First Pharmacy ERP & POS
+# Mawthooq — Offline-First Pharmacy ERP Architecture Showcase 
 
 ## Overview
 
